@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#faf8f4"/>
+  <text x="32" y="42" text-anchor="middle" font-family="DejaVu Serif, Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#161412">AA</text>
+  <text x="5" y="23" font-family="DejaVu Serif, Georgia, serif" font-size="17" fill="#6e5a82">/</text>
+  <text x="51" y="59" font-family="DejaVu Serif, Georgia, serif" font-size="17" fill="#6e5a82">/</text>
+</svg>
